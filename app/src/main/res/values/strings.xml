@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SpeedMotion</string>
+    <string name="step_count">Step Count</string>
+    <string name="distance">Distance</string>
+    <string name="calorie_burn">Calorie Burn</string>
+    <string name="status">Status</string>
 </resources>
